@@ -20,6 +20,7 @@ Window {
     }
 //
 //
+//
 
     InnerLeftPanel{
         id: inner_left
